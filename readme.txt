@@ -4,15 +4,15 @@ Tags: testing, development
 Requires at least: 6.0
 Tested up to: 6.6
 Requires PHP: 7.4
-Stable tag: 1.2.0
+Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-A dummy plugin whose readme was changed IN THE REPOSITORY at version 1.1.0.
+A short description that lives ONLY IN THE REPOSITORY at version 1.3.0.
 
 == Description ==
 
-This plugin intentionally does nothing useful. It exists so that WPUploader's
+The description section was also rewritten IN THE REPOSITORY at 1.3.0, so that
 GitHub import, Plugin Check, readme handling, and release review can be tested
 against a real repository.
 
@@ -31,6 +31,9 @@ the readme inside WPUploader should surface a difference against this text.
 No. That is precisely the point.
 
 == Changelog ==
+
+= 1.3.0 =
+* Repository readme deliberately diverged from the one edited in WPUploader.
 
 = 1.2.0 =
 * Version bumped to verify the storage fix in production.
