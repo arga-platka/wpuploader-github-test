@@ -4,11 +4,11 @@ Tags: testing, development
 Requires at least: 6.0
 Tested up to: 6.6
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-A minimal dummy plugin used to exercise WPUploader's GitHub import end to end.
+A dummy plugin whose readme was changed IN THE REPOSITORY at version 1.1.0.
 
 == Description ==
 
@@ -31,6 +31,9 @@ the readme inside WPUploader should surface a difference against this text.
 No. That is precisely the point.
 
 == Changelog ==
+
+= 1.1.0 =
+* Readme text changed in the repository, to test divergence detection.
 
 = 1.0.0 =
 * Initial release.
